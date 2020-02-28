@@ -1,0 +1,11 @@
+C:\Users\6820492\Repos\MyFirstProgram\bin\Debug\netcoreapp3.1\MyFirstProgram.exe
+C:\Users\6820492\Repos\MyFirstProgram\bin\Debug\netcoreapp3.1\MyFirstProgram.deps.json
+C:\Users\6820492\Repos\MyFirstProgram\bin\Debug\netcoreapp3.1\MyFirstProgram.runtimeconfig.json
+C:\Users\6820492\Repos\MyFirstProgram\bin\Debug\netcoreapp3.1\MyFirstProgram.runtimeconfig.dev.json
+C:\Users\6820492\Repos\MyFirstProgram\bin\Debug\netcoreapp3.1\MyFirstProgram.dll
+C:\Users\6820492\Repos\MyFirstProgram\bin\Debug\netcoreapp3.1\MyFirstProgram.pdb
+C:\Users\6820492\Repos\MyFirstProgram\obj\Debug\netcoreapp3.1\MyFirstProgram.csprojAssemblyReference.cache
+C:\Users\6820492\Repos\MyFirstProgram\obj\Debug\netcoreapp3.1\MyFirstProgram.AssemblyInfoInputs.cache
+C:\Users\6820492\Repos\MyFirstProgram\obj\Debug\netcoreapp3.1\MyFirstProgram.AssemblyInfo.cs
+C:\Users\6820492\Repos\MyFirstProgram\obj\Debug\netcoreapp3.1\MyFirstProgram.dll
+C:\Users\6820492\Repos\MyFirstProgram\obj\Debug\netcoreapp3.1\MyFirstProgram.pdb
