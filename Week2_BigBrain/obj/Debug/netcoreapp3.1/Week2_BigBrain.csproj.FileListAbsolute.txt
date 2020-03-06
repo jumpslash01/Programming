@@ -1,0 +1,11 @@
+C:\Users\6820492\Desktop\Programming\Week2_BigBrain\obj\Debug\netcoreapp3.1\Week2_BigBrain.csprojAssemblyReference.cache
+C:\Users\6820492\Desktop\Programming\Week2_BigBrain\obj\Debug\netcoreapp3.1\Week2_BigBrain.AssemblyInfoInputs.cache
+C:\Users\6820492\Desktop\Programming\Week2_BigBrain\obj\Debug\netcoreapp3.1\Week2_BigBrain.AssemblyInfo.cs
+C:\Users\6820492\Desktop\Programming\Week2_BigBrain\bin\Debug\netcoreapp3.1\Week2_BigBrain.exe
+C:\Users\6820492\Desktop\Programming\Week2_BigBrain\bin\Debug\netcoreapp3.1\Week2_BigBrain.deps.json
+C:\Users\6820492\Desktop\Programming\Week2_BigBrain\bin\Debug\netcoreapp3.1\Week2_BigBrain.runtimeconfig.json
+C:\Users\6820492\Desktop\Programming\Week2_BigBrain\bin\Debug\netcoreapp3.1\Week2_BigBrain.runtimeconfig.dev.json
+C:\Users\6820492\Desktop\Programming\Week2_BigBrain\bin\Debug\netcoreapp3.1\Week2_BigBrain.dll
+C:\Users\6820492\Desktop\Programming\Week2_BigBrain\bin\Debug\netcoreapp3.1\Week2_BigBrain.pdb
+C:\Users\6820492\Desktop\Programming\Week2_BigBrain\obj\Debug\netcoreapp3.1\Week2_BigBrain.dll
+C:\Users\6820492\Desktop\Programming\Week2_BigBrain\obj\Debug\netcoreapp3.1\Week2_BigBrain.pdb
