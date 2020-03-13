@@ -1,0 +1,11 @@
+C:\Users\6820492\Desktop\Week3\obj\Debug\netcoreapp3.1\Week3.csprojAssemblyReference.cache
+C:\Users\6820492\Desktop\Week3\obj\Debug\netcoreapp3.1\Week3.AssemblyInfoInputs.cache
+C:\Users\6820492\Desktop\Week3\obj\Debug\netcoreapp3.1\Week3.AssemblyInfo.cs
+C:\Users\6820492\Desktop\Week3\bin\Debug\netcoreapp3.1\Week3.exe
+C:\Users\6820492\Desktop\Week3\bin\Debug\netcoreapp3.1\Week3.deps.json
+C:\Users\6820492\Desktop\Week3\bin\Debug\netcoreapp3.1\Week3.runtimeconfig.json
+C:\Users\6820492\Desktop\Week3\bin\Debug\netcoreapp3.1\Week3.runtimeconfig.dev.json
+C:\Users\6820492\Desktop\Week3\bin\Debug\netcoreapp3.1\Week3.dll
+C:\Users\6820492\Desktop\Week3\bin\Debug\netcoreapp3.1\Week3.pdb
+C:\Users\6820492\Desktop\Week3\obj\Debug\netcoreapp3.1\Week3.dll
+C:\Users\6820492\Desktop\Week3\obj\Debug\netcoreapp3.1\Week3.pdb
