@@ -1,0 +1,11 @@
+C:\Users\theza\Desktop\programming\obj\Debug\netcoreapp3.1\programming.csprojAssemblyReference.cache
+C:\Users\theza\Desktop\programming\obj\Debug\netcoreapp3.1\programming.AssemblyInfoInputs.cache
+C:\Users\theza\Desktop\programming\obj\Debug\netcoreapp3.1\programming.AssemblyInfo.cs
+C:\Users\theza\Desktop\programming\bin\Debug\netcoreapp3.1\programming.exe
+C:\Users\theza\Desktop\programming\bin\Debug\netcoreapp3.1\programming.deps.json
+C:\Users\theza\Desktop\programming\bin\Debug\netcoreapp3.1\programming.runtimeconfig.json
+C:\Users\theza\Desktop\programming\bin\Debug\netcoreapp3.1\programming.runtimeconfig.dev.json
+C:\Users\theza\Desktop\programming\bin\Debug\netcoreapp3.1\programming.dll
+C:\Users\theza\Desktop\programming\bin\Debug\netcoreapp3.1\programming.pdb
+C:\Users\theza\Desktop\programming\obj\Debug\netcoreapp3.1\programming.dll
+C:\Users\theza\Desktop\programming\obj\Debug\netcoreapp3.1\programming.pdb

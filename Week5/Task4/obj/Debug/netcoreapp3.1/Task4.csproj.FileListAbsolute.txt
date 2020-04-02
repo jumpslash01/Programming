@@ -1,0 +1,11 @@
+C:\Users\theza\Desktop\programming\Task4\bin\Debug\netcoreapp3.1\Task4.exe
+C:\Users\theza\Desktop\programming\Task4\bin\Debug\netcoreapp3.1\Task4.deps.json
+C:\Users\theza\Desktop\programming\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.json
+C:\Users\theza\Desktop\programming\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.dev.json
+C:\Users\theza\Desktop\programming\Task4\bin\Debug\netcoreapp3.1\Task4.dll
+C:\Users\theza\Desktop\programming\Task4\bin\Debug\netcoreapp3.1\Task4.pdb
+C:\Users\theza\Desktop\programming\Task4\obj\Debug\netcoreapp3.1\Task4.csprojAssemblyReference.cache
+C:\Users\theza\Desktop\programming\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfoInputs.cache
+C:\Users\theza\Desktop\programming\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfo.cs
+C:\Users\theza\Desktop\programming\Task4\obj\Debug\netcoreapp3.1\Task4.dll
+C:\Users\theza\Desktop\programming\Task4\obj\Debug\netcoreapp3.1\Task4.pdb
