@@ -1,0 +1,11 @@
+C:\Users\theza\Desktop\Swin\Programming\list1\obj\Debug\netcoreapp3.1\list1.csprojAssemblyReference.cache
+C:\Users\theza\Desktop\Swin\Programming\list1\obj\Debug\netcoreapp3.1\list1.AssemblyInfoInputs.cache
+C:\Users\theza\Desktop\Swin\Programming\list1\obj\Debug\netcoreapp3.1\list1.AssemblyInfo.cs
+C:\Users\theza\Desktop\Swin\Programming\list1\bin\Debug\netcoreapp3.1\list1.exe
+C:\Users\theza\Desktop\Swin\Programming\list1\bin\Debug\netcoreapp3.1\list1.deps.json
+C:\Users\theza\Desktop\Swin\Programming\list1\bin\Debug\netcoreapp3.1\list1.runtimeconfig.json
+C:\Users\theza\Desktop\Swin\Programming\list1\bin\Debug\netcoreapp3.1\list1.runtimeconfig.dev.json
+C:\Users\theza\Desktop\Swin\Programming\list1\bin\Debug\netcoreapp3.1\list1.dll
+C:\Users\theza\Desktop\Swin\Programming\list1\bin\Debug\netcoreapp3.1\list1.pdb
+C:\Users\theza\Desktop\Swin\Programming\list1\obj\Debug\netcoreapp3.1\list1.dll
+C:\Users\theza\Desktop\Swin\Programming\list1\obj\Debug\netcoreapp3.1\list1.pdb
