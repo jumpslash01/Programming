@@ -1,0 +1,11 @@
+C:\Users\theza\Desktop\Swin\Programming\methods_tasks\Task7\bin\Debug\netcoreapp3.1\Task7.exe
+C:\Users\theza\Desktop\Swin\Programming\methods_tasks\Task7\bin\Debug\netcoreapp3.1\Task7.deps.json
+C:\Users\theza\Desktop\Swin\Programming\methods_tasks\Task7\bin\Debug\netcoreapp3.1\Task7.runtimeconfig.json
+C:\Users\theza\Desktop\Swin\Programming\methods_tasks\Task7\bin\Debug\netcoreapp3.1\Task7.runtimeconfig.dev.json
+C:\Users\theza\Desktop\Swin\Programming\methods_tasks\Task7\bin\Debug\netcoreapp3.1\Task7.dll
+C:\Users\theza\Desktop\Swin\Programming\methods_tasks\Task7\bin\Debug\netcoreapp3.1\Task7.pdb
+C:\Users\theza\Desktop\Swin\Programming\methods_tasks\Task7\obj\Debug\netcoreapp3.1\Task7.csprojAssemblyReference.cache
+C:\Users\theza\Desktop\Swin\Programming\methods_tasks\Task7\obj\Debug\netcoreapp3.1\Task7.AssemblyInfoInputs.cache
+C:\Users\theza\Desktop\Swin\Programming\methods_tasks\Task7\obj\Debug\netcoreapp3.1\Task7.AssemblyInfo.cs
+C:\Users\theza\Desktop\Swin\Programming\methods_tasks\Task7\obj\Debug\netcoreapp3.1\Task7.dll
+C:\Users\theza\Desktop\Swin\Programming\methods_tasks\Task7\obj\Debug\netcoreapp3.1\Task7.pdb
